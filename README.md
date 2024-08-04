@@ -14,7 +14,7 @@
 <a href="https://twitter.com/junaidify123" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-  <a href="https://www.leetcode.com/junaidify" target="_blank">
+  <a href="https://leetcode.com/u/junaidify/" target="_blank">
 <img s
 </div>  
 
