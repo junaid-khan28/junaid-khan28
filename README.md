@@ -19,7 +19,7 @@
  </div>
  
 <div align="center"> 
-  <a href="httts://github.com/junaidify" target="_blank" />
+  <a href="httts://github.com/Junaidify" target="_blank" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
  </a>
   <a href="mailto:junaidkhan23785@gmail.com">
