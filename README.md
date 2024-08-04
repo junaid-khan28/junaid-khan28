@@ -11,11 +11,10 @@
 <a href="https://linkedin.com/in/junaidify-khan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/junaidify123" target="_blank">
+<a href="https://leetcode.com/u/junaidify/" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-  <a href="https://leetcode.com/u/junaidify/" target="_blank">
-<img s
+
 </div>  
 
 <br/>
