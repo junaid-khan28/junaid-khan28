@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Node JS, Express JS and MongoDB**
 
-💬 Let's connect to sharing learning experiences.
+💬 Let's connect to share learning experiences.
 
  </div>
  
