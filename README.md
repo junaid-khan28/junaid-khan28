@@ -7,20 +7,19 @@
 </h1>
 
 <h3 align="center">A passionate Frontend web developer from India</h3>
-
-<br/>
-
-<div align="center">
-
-Responsible for creating responsive and visually
+<h4 align="center"> Responsible for creating responsive and visually
 appealing user interfaces for web applications. Key
 tasks include translating design concepts into
 functional code, optimizing performance, ensuring
 cross-browser compatibility, and collaborating with
 design and backend teams to implement features
-and resolve issues.
+and resolve issues.</h4>
+
+<br/>
+
+<div align="center">
  
- 🌱 I’m currently learning **Node JS, Express JS and MongoDB**
+ 🌱 I’m currently learning **Node JS, Express JS, and MongoDB**
 
 💬 Let's connect to share learning experiences.
 
