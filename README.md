@@ -11,6 +11,14 @@
 <br/>
 
 <div align="center">
+
+Responsible for creating responsive and visually
+appealing user interfaces for web applications. Key
+tasks include translating design concepts into
+functional code, optimizing performance, ensuring
+cross-browser compatibility, and collaborating with
+design and backend teams to implement features
+and resolve issues.
  
  🌱 I’m currently learning **Node JS, Express JS and MongoDB**
 
