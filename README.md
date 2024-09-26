@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Junaid+Khan!;" />
 </h1>
 
-<h3 align="center">A passionate Frontend web developer from India</h3>
+<h3 align="center">A passionate Full stack web developer from India</h3>
 <h4 align="center"> Responsible for creating responsive and visually
 appealing user interfaces for web applications. Key
 tasks include translating design concepts into
