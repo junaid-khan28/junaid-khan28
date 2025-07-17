@@ -42,7 +42,7 @@ Currently focused on building job platforms, interactive learning games, and imp
 
 ### 🚀 Projects
 
-#### 🍳 [CodeKitchen – Educational Programming Game](https://github.com/Junaidify/codekitchen)
+#### 🍳 [CodeKitchen – Educational Programming Game](https://code-kitchen-quest.vercel.app/)
 
 **Frontend**: React 18 + TypeScript + Tailwind + ShadCN/UI  
 **Concept**: Learn programming fundamentals through a cooking-themed interactive coding platform.  
@@ -52,7 +52,7 @@ Currently focused on building job platforms, interactive learning games, and imp
 - XP system, animated feedback, mobile responsiveness, accessibility support  
 **Advanced Topics**: Sandboxed JS execution, React Query, custom hooks, performance optimizations
 
-#### 🍷 [Thirsty Wine – Wine Discovery Platform](https://github.com/Junaidify/thirsty-wine)
+#### 🍷 [Thirsty Wine – Wine Discovery Platform](https://pay-pal-pioneers-068.vercel.app/)
 
 **Fullstack**: React + Chakra UI + Redux + JSON Server (Mock API)  
 **Concept**: Explore, review, and purchase wines.  
